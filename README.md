@@ -1,1 +1,1 @@
-# limited-lemonade-frontent
+# limited-lemonade-frontend
